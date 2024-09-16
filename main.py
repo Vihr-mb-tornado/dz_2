@@ -43,3 +43,4 @@ while True:
     print ('Результат обчислення: ', t,' = ', r)
     x = ''
     y = ''
+   # still standing :-)
